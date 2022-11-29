@@ -1,0 +1,29 @@
+.card-img-tops{
+  width: 285px;
+  height: 190px;
+}
+.card-img{
+  height: 195px;
+}
+.damages{
+  height: 190px;
+}
+.pot{
+  height: 190px;
+}
+.zero{
+  height: 190px;
+}
+.card {
+  border: 2px solid rgba(84, 95, 125, 0.15);
+  transition: width 2s, height 4s;
+}
+body {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 1800px;
+}
+/* .cray{
+  display: flex;
+  justify-content: space-between;
+} */
