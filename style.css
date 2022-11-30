@@ -23,6 +23,18 @@ body {
   grid-template-columns: repeat(4, 1fr);
   max-width: 1800px;
 }
+.card{
+  margin-bottom: 2rem;
+}
+.bi-person-circle{
+  cursor: pointer;
+}
+.bi-share-fill{
+  cursor: pointer;
+}
+.bi-three-dots-vertical{
+  cursor: pointer;
+}
 /* .cray{
   display: flex;
   justify-content: space-between;
