@@ -25,6 +25,8 @@ body {
 }
 .card{
   margin-bottom: 2rem;
+  margin-left: 2rem;
+  margin-top: 2rem;
 }
 .bi-person-circle{
   cursor: pointer;
